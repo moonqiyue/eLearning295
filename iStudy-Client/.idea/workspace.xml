@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e529cfef-e0c1-4029-9fac-30d4f995a903" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xzl6bmKGRQNuI8LwBWYdcN3JMF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration name="Live Debug" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e529cfef-e0c1-4029-9fac-30d4f995a903" name="Default" comment="" />
+      <created>1500045233449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500045233449</updated>
+      <workItem from="1500045236295" duration="2678000" />
+      <workItem from="1500142326391" duration="55000" />
+      <workItem from="1500144871220" duration="1088000" />
+      <workItem from="1500147104842" duration="2882000" />
+      <workItem from="1500150070957" duration="65000" />
+      <workItem from="1500223246576" duration="31000" />
+      <workItem from="1500233010939" duration="31000" />
+      <workItem from="1500309192826" duration="16588000" />
+      <workItem from="1503049173580" duration="538000" />
+      <workItem from="1503049882290" duration="1717000" />
+      <workItem from="1503051792171" duration="376000" />
+      <workItem from="1503052195918" duration="337000" />
+      <workItem from="1503052667803" duration="424000" />
+      <workItem from="1503053209978" duration="459000" />
+      <workItem from="1503053741906" duration="1607000" />
+      <workItem from="1503055600930" duration="61000" />
+      <workItem from="1503055723481" duration="1115000" />
+      <workItem from="1503057004219" duration="773000" />
+      <workItem from="1503057863148" duration="714000" />
+      <workItem from="1503131109731" duration="437000" />
+      <workItem from="1503131594827" duration="93000" />
+      <workItem from="1503131745474" duration="389000" />
+      <workItem from="1503134105557" duration="275000" />
+      <workItem from="1503393932648" duration="485000" />
+      <workItem from="1504286296097" duration="1504000" />
+      <workItem from="1504290944264" duration="169000" />
+      <workItem from="1504292149628" duration="448000" />
+      <workItem from="1582056631562" duration="2303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1120" y="34" width="834" height="924" key="find.popup" timestamp="1581730715669">
+      <screen x="-2560" y="-153" width="2560" height="1417" />
+    </state>
+    <state x="-1120" y="34" width="834" height="924" key="find.popup/-2560.-153.2560.1417/0.23.1680.1027@-2560.-153.2560.1417" timestamp="1581730715669" />
+    <state x="-1122" y="213" width="838" height="1032" key="search.everywhere.popup" timestamp="1581730711944">
+      <screen x="-2560" y="-153" width="2560" height="1417" />
+    </state>
+    <state x="-1122" y="213" width="838" height="1032" key="search.everywhere.popup/-2560.-153.2560.1417/0.23.1680.1027@-2560.-153.2560.1417" timestamp="1581730711944" />
+  </component>
+</project>

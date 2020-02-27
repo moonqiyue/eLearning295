@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3bcad0a-1fc2-4553-a8c1-290fb9a447f8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>video</find>
+      <find>(__dirname + '/public/mp4')</find>
+      <find>.</find>
+      <find>.mv</find>
+      <find>i</find>
+      <find>infin</find>
+      <find>infi</find>
+      <find>m</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Xzl6HgpMOQKLspxqJhXmO2OzFX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Live Debug">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration name="Build DB" type="NodeJSConfigurationType" node-parameters="-r babel-register" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="INITDB" value="TRUE" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Live Debug" type="NodeJSConfigurationType" node-parameters="-r babel-register" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Build DB" />
+      <item itemvalue="Node.js.Live Debug" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3bcad0a-1fc2-4553-a8c1-290fb9a447f8" name="Default" comment="" />
+      <created>1500045479272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500045479272</updated>
+      <workItem from="1500045481313" duration="2222000" />
+      <workItem from="1500142327433" duration="54000" />
+      <workItem from="1500144872402" duration="1106000" />
+      <workItem from="1500147105849" duration="1737000" />
+      <workItem from="1500150060702" duration="75000" />
+      <workItem from="1500223245160" duration="56000" />
+      <workItem from="1500233018249" duration="24000" />
+      <workItem from="1500309193996" duration="15127000" />
+      <workItem from="1503053202359" duration="465000" />
+      <workItem from="1503053740102" duration="1606000" />
+      <workItem from="1503055598698" duration="63000" />
+      <workItem from="1503055721456" duration="1118000" />
+      <workItem from="1503057003334" duration="774000" />
+      <workItem from="1503057861888" duration="715000" />
+      <workItem from="1503131108997" duration="438000" />
+      <workItem from="1503131594337" duration="94000" />
+      <workItem from="1503131744229" duration="390000" />
+      <workItem from="1503134104090" duration="276000" />
+      <workItem from="1503393931321" duration="486000" />
+      <workItem from="1504286295510" duration="1324000" />
+      <workItem from="1504290943213" duration="170000" />
+      <workItem from="1504292148571" duration="449000" />
+      <workItem from="1582056631446" duration="3019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1374" height="217" key="GridCell.Tab.0.bottom" timestamp="1582766132059">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1374" height="217" key="GridCell.Tab.0.bottom/-2560.-153.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1582766132059" />
+    <state width="1374" height="217" key="GridCell.Tab.0.center" timestamp="1582766132057">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1374" height="217" key="GridCell.Tab.0.center/-2560.-153.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1582766132057" />
+    <state width="1374" height="217" key="GridCell.Tab.0.left" timestamp="1582766132056">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1374" height="217" key="GridCell.Tab.0.left/-2560.-153.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1582766132056" />
+    <state width="1374" height="217" key="GridCell.Tab.0.right" timestamp="1582766132058">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1374" height="217" key="GridCell.Tab.0.right/-2560.-153.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1582766132058" />
+  </component>
+</project>
